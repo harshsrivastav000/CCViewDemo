@@ -1,0 +1,6 @@
+framework module Pods_CCViewDemoTests {
+  umbrella header "Pods-CCViewDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

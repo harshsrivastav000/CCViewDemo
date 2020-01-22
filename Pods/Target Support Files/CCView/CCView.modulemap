@@ -1,0 +1,6 @@
+framework module CCView {
+  umbrella header "CCView-umbrella.h"
+
+  export *
+  module * { export * }
+}

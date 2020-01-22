@@ -1,0 +1,16 @@
+PODS:
+  - CCView (1.0.0)
+
+DEPENDENCIES:
+  - CCView (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CCView
+
+SPEC CHECKSUMS:
+  CCView: 560370fbce55dc9decc7950b8bf991bb47b6fa7a
+
+PODFILE CHECKSUM: 6a4b3c6bcee4713fc4165ca46d43f99771f75a2c
+
+COCOAPODS: 1.5.2
